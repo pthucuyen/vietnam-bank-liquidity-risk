@@ -177,13 +177,3 @@ in digital bank run scenarios.
 - TT22/2019/TT-NHNN: *Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động
   của ngân hàng, chi nhánh ngân hàng nước ngoài* — NHNN, 2019
 - TT83/2024 (IRRBB): *Quy định về quản lý rủi ro lãi suất trong hoạt động ngân hàng*
-
----
-
-*Built by Pham Thuc Uyen · [LinkedIn](https://www.linkedin.com/in/pthucuyen/)*
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme)
-
-print(f"✅ README written: {len(readme)} characters, {readme.count(chr(10))} lines")
