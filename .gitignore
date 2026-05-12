@@ -5,3 +5,4 @@ __pycache__/
 data/raw/
 *.db
 .env
+push.bat
